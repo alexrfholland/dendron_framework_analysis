@@ -1,6 +1,6 @@
 # Framework Analysis by Participation Ladder
 
-![Ladder of More-than-Human Participation](assets/ladder-diagram.png)
+![Ladder of More-than-Human Participation](assets/ladder-matrix.png)
 
 *The Ladder of More-than-Human Participation framework organizing all analyzed frameworks by conceptual rungs*
 
