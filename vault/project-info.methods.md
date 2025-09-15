@@ -1,4 +1,4 @@
-# Methodology
+# Methods
 
 ## Overview
 

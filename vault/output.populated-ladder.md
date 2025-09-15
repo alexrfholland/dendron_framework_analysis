@@ -1,4 +1,4 @@
-# Framework Analysis by Participation Ladder
+# Populated Ladder
 
 ![Ladder of More-than-Human Participation](assets/ladder-matrix.png)
 

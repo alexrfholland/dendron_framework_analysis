@@ -11,8 +11,8 @@ This workspace contains a comprehensive analysis of frameworks for more-than-hum
 
 ## Project Structure
 
-### [[project-info.methods]] - **Methodology**
-Complete 6-step methodology including signal detection, innovation mapping, and AI-assisted analysis
+### [[project-info.methods]] - **Methods**
+Complete 6-step methods including signal detection, innovation mapping, and AI-assisted analysis
 
 ### [[project-info.sources]] - **Source Documents** 
 Table of all 69 analyzed sources with metadata, organizations, and classifications

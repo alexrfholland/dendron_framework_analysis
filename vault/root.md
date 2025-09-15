@@ -7,7 +7,7 @@ This workspace contains **62 innovations** (frameworks) from the More-than-Human
 **Analysis Date:** 2025-09-15
 **Sources Analyzed:** 69
 
-## Methodology
+## Methods
 
 We use the Ladder of More-than-Human Participation to structure this horizon scan, adapting the EuroScan protocol (Gutiérrez-Ibarluzea et al., 2014; Hines et al., 2019). We first define a series of innovations of the transformed system, structured by ladder rungs. We then search for and assess signals coming from practice of these innovations to assess transformation in action. To do so, we:
 
@@ -24,7 +24,6 @@ We use the Ladder of More-than-Human Participation to structure this horizon sca
 
 - [[project-info]] - Project Information and Metadata
 - [[output]] - Analysis Results by Framework
-- [[output.populated-ladder]] - **Framework Analysis by Ladder Rungs** - Hierarchical view of all frameworks organized by conceptual ladder rungs and topic clusters
 
 
 ## Scoring System
