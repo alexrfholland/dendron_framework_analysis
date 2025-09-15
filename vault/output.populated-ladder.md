@@ -1,5 +1,22 @@
 # Framework Analysis by Participation Ladder
 
+![Ladder of More-than-Human Participation](assets/ladder-diagram.png)
+
+*The Ladder of More-than-Human Participation framework organizing all analyzed frameworks by conceptual rungs*
+
+## Relevance Scoring System
+
+**Table 2. Relevance scores**
+
+| Score | Description |
+|-------|-------------|
+| **−1** | Innovation mentioned as negative or in opposition |
+| **0** | Innovation not mentioned OR only related concepts mentioned without the specific innovation OR human-centric application (unless in Paternalism rung) |
+| **1** | Innovation explicitly included but appears only in a sentence, list, table, passing reference, or quote, with less than one sentence of engagement |
+| **2** | Innovation explicitly discussed with more than one sentence of engagement, but only theoretically or with weak more-than-human application (unless in Paternalism rung) |
+| **3** | Innovation used with direct relevance to more-than-human empowerment, AND: explicitly used as core conceptual device OR considers implications and consequences in more-than-human contexts OR explicitly conceptualises how the innovation might empower nonhumans, but lacks concrete policy, practice, or governance mechanisms |
+| **4** | Innovation explicitly used for more-than-human empowerment with firm policy or practice implications and detailed, actionable mechanisms (ie. concrete steps, policies, indicators of success, or institutionalisation clearly laid out and feasible for implementation) |
+
 ## Ladder Rungs
 
 - [[output.populated-ladder.shallow-paternalism]] - **Shallow paternalism**
