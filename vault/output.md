@@ -3,6 +3,8 @@
 ## Analysis Types
 
 - [[output.populated-ladder]] - **Framework Analysis by Participation Ladder**
+
+**Experimental:**
 - [[output.questions-challenges]] - **Questions and Challenges**
 - [[output.methods]] - **Methods**
 - [[output.agents]] - **Agents**

@@ -2,8 +2,6 @@
 
 ![Ladder of More-than-Human Participation](assets/ladder-matrix.png)
 
-*The Ladder of More-than-Human Participation framework organizing all analyzed frameworks by conceptual rungs*
-
 ## Relevance Scoring System
 
 **Table 2. Relevance scores**
